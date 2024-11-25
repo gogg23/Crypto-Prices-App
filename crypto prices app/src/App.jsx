@@ -1,7 +1,7 @@
 import './App.css';
 
-function CryptoPrices() {
-  return <div></div>;
+function App() {
+  return <div>CryptoPrices</div>;
 }
 
 export default App;
