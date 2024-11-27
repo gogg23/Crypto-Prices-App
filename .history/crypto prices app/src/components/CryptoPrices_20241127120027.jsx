@@ -17,17 +17,6 @@ export function CryptoPrices() {
   return (
     <div>
       <h2>Crypto Prices</h2>
-      <table>
-        <thead>
-          <tr>
-            <th>Rank</th>
-            <th>Rank</th>
-            <th>Rank</th>
-            <th>Rank</th>
-            <th>Rank</th>
-          </tr>
-        </thead>
-      </table>
     </div>
   );
 }

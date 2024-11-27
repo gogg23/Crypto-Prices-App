@@ -21,10 +21,6 @@ export function CryptoPrices() {
         <thead>
           <tr>
             <th>Rank</th>
-            <th>Rank</th>
-            <th>Rank</th>
-            <th>Rank</th>
-            <th>Rank</th>
           </tr>
         </thead>
       </table>
