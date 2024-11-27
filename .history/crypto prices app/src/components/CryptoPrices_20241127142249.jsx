@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react';
 import axios from 'axios';
-import './CryptoPrices.css';
 
 export function CryptoPrices() {
   const [cryptos, setCryptos] = useState([]);
